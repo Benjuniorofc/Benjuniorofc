@@ -1,4 +1,4 @@
-### Olá pessoal! Sejam bem vindos ao meu 1° repositório: Sobre mim. 👋
+### Olá pessoal! Sejam Bem Vindos ao Meu Perfil do Github! 👋
 
 <!--
 **Benjuniorofc/Benjuniorofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

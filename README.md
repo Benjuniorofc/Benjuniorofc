@@ -4,7 +4,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ben.jr.santos.bs.official@gmail.com&logoColor=white)](ben.jr.santos.bs.official@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=87999221873&logoColor=white)](87999221873)<br>
 Abaixo está(ão) a(s) linguagem(ns) que mais uso:<br> <br>
-![Ben Júnior GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjuniorofc&show_icons=true&theme=dark) <br> 
+![Ben Júnior GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjuniorofc&show_icons=true&theme=dark) <br>
+<a href="https://github.com/benjuniorofc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjuniorofc&layout=compact&theme=dark&hide_border=true" /></a>
+
+
 
 Agora abaixo algumas informações sobre mim: <br>
 - 🏫|Atualmente estudando na ETE Cyl Gallindo;

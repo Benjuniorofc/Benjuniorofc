@@ -1,4 +1,6 @@
 ### Olá pessoal! Sejam Bem Vindos ao Meu Perfil do Github! 👋
+
+[[!Instagram]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/ben_jr_bs_official/)
 Abaixo está a linguagem que mais uso, que é a C:<br>
 ![Ben Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=benjuniorofc&show_icons=true&theme=tokyonight)
 

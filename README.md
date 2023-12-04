@@ -18,7 +18,8 @@ Agora abaixo algumas informações sobre mim: <br>
 - ✉️|Email comercial:
 - ben.jr.santos.bs.official
 
-Outras linguagens que estou aprendendo: <br>
+Linguagens que uso no meu dia a dia: <br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <!--
 **Benjuniorofc/Benjuniorofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

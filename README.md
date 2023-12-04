@@ -5,13 +5,14 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=87999221873&logoColor=white)](87999221873)<br>
 Abaixo está(ão) a(s) linguagem(ns) que mais uso:<br> <br>
 ![Ben Júnior GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjuniorofc&show_icons=true&theme=dark) <br>
-<a href="https://github.com/benjuniorofc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjuniorofc&layout=compact&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/benjuniorofc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjuniorofc&layout=compact&theme=dark&hide_border=true" /></a>
 
 
 
 Agora abaixo algumas informações sobre mim: <br>
 - 🏫|Atualmente estudando na ETE Cyl Gallindo;
-- 👨🏻‍💻|Cursos: Design - introdução, Operador de micro, Desenvolvimento Pessoal;
+- 👨🏻‍💻|Certificados: Design - introdução, Operador de micro, Desenvolvimento Pessoal;
 - 📚|Curso técnico Desenvolvimento de Sistemas - 1/3 EM;
 - 🌎|Mora em Buíque/PE;
 - 😛|16 year;
@@ -20,6 +21,7 @@ Agora abaixo algumas informações sobre mim: <br>
 
 Linguagens que uso no meu dia a dia: <br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
+</div>
 <!--
 **Benjuniorofc/Benjuniorofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

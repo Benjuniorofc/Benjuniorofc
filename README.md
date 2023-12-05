@@ -23,5 +23,8 @@ Linguagens que uso no meu dia a dia: <br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
 </div>
+<em>"A tecnologia Transforma o mundo"</em>  
+
+<em>-Steve Jobs</em>
 <!--
 **Benjuniorofc/Benjuniorofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

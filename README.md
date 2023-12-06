@@ -23,7 +23,7 @@ Linguagens que uso no meu dia a dia: <br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
 </div>
-<em>"A tecnologia Transforma o mundo"</em>  
+<em>"A Tecnologia Move o Mundo"</em>  
 
 <em>-Steve Jobs</em>
 <!--
